@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vishal Kumar Gola 👋</h1>
+<h1 align="center">Hi, I'm Vishal Gola 👋</h1>
 
 <p align="center">
   Final-year CS (AI) student building full-stack, AI-integrated systems:<br>
